@@ -13,7 +13,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Define X and Y array.
 4. Define a function for costFunction,cost and gradient.
 5. Define a function to plot the decision boundary and predict the Regression value
-## Program:
+## Program & Output:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: AVINASH T
@@ -124,9 +124,6 @@ print(y_prednew)
 print(theta)
 ```
 ![image](https://github.com/user-attachments/assets/0e0260f0-bf41-4c17-a099-a9401c96c9ca)
-
-## Output:
-
 
 
 ## Result:
